@@ -100,7 +100,7 @@
             "post-create-project-cmd-message": [
                 "<bg=blue;fg=white>                                                            </>",
                 "<bg=blue;fg=white>  Congratulations, you’ve installed the Drupal StarterKit   </>",
-                "<bg=blue;fg=white>  from the netchainmedia/drupal-stk template! You can visit </>",
+                "<bg=blue;fg=white>  from the netchainmedia/drupal-install template! You can visit </>",
                 "<bg=blue;fg=white>  our documentations at: https://docs.netchainemdia.com     </>",
                 "<bg=blue;fg=white>                                                            </>",
                 ""
